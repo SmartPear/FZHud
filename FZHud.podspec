@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
 spec.name         = 'FZHud'
-spec.version      = '0.1.0'
+spec.version      = '0.2.0'
 spec.summary      = 'swift扩展的hud加载弹窗。'
 spec.license      = 'MIT'
 spec.homepage     = 'https://github.com/SmartPear'

@@ -560,6 +560,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.1.0;
 				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = com.AlchemyFoundation.achpay.FZHud;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -593,6 +594,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.1.0;
 				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = com.AlchemyFoundation.achpay.FZHud;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
